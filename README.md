@@ -1,4 +1,4 @@
-# H2 Interpretable / Explainable RandomForest
+## Interpretable / Explainable RandomForest
 
 ----
 
